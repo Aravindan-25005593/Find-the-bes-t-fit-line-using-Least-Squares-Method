@@ -57,7 +57,7 @@ Predicted value: [ 5.22972973 11.86824324  1.91047297  7.44256757  8.54898649  9
   0.80405405  4.12331081  7.44256757 12.97466216]
 
   
-<img width="543" height="413" alt="image" src="https://github.com/user-attachments/assets/b040fc15-d7de-40a3-bced-a37651ba04c2" />
+<img width="543" height="413" alt="7c989425-2cdf-4d4f-8947-2dc6c0f7c77c" src="https://github.com/user-attachments/assets/4d5fd910-c90c-4396-bd9f-24391484d7de" />
 
 
 
